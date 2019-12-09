@@ -5,7 +5,7 @@ banner:
     - is_primary: true
       is_scrolly: false
       label: Vision
-      url: /generic
+      url: /Our Vision
   bottom_link:
     has_arrow: true
     is_scrolly: true
