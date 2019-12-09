@@ -1,10 +1,10 @@
 ---
-title: ' Our Vision'
+title: Vision
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 background_style: style5
 menu:
   main:
-    name: Our Vision
+    name: Vision
     weight: 2
 layout: page
 ---
