@@ -1,10 +1,10 @@
 ---
-title: Generic Page
+title: ' Our Vision'
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
 background_style: style5
 menu:
   main:
-    name: Generic
+    name: Our Vision
     weight: 2
 layout: page
 ---
