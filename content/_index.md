@@ -15,11 +15,8 @@ banner:
     Smart Apps is a app development and design expert company which will provide
     superior mobile apps solutions and services to clients. It will driven by
     highly professional and trained individuals and will surely become a leading
-    company.
-
-
-    our company will design and develop applications which will compatible to
-    android and iOS to work better and smarter.
+    company. our company will design and develop applications which will
+    compatible to android and iOS to work better and smarter.
   title: SMART APPS
 sections:
   - background_style: style1
